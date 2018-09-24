@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="82mm"
+   height="30mm"
+   viewBox="0 0 82 30"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="PSLab-Logo-Rectangle.svg"
+   inkscape:export-filename="/home/opntec/git/pslab-artwork/logo/PSLab-Logo-Rectangle2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="25.022371"
+     inkscape:cy="-46.856034"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid73"
+       originx="-64.999996"
+       originy="-133.5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65,-133.5)">
+    <rect
+       style="fill:#d40000;stroke-width:0.18632692"
+       id="rect14"
+       width="82"
+       height="30"
+       x="65"
+       y="133.5" />
+    <g
+       id="g78"
+       transform="matrix(0.90553664,0,0,0.90553664,54.602641,91.981473)">
+      <g
+         id="g121"
+         transform="translate(-0.22432951,-1.7948814e-6)">
+        <circle
+           style="fill:#ffffff;stroke-width:0.49419275"
+           id="path67"
+           cx="90.596443"
+           cy="66.547829"
+           r="4.0594411" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26057339px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23151433"
+           x="19.768209"
+           y="66.629257"
+           id="text71"
+           transform="scale(0.94768405,1.055204)"><tspan
+             sodipodi:role="line"
+             id="tspan69"
+             x="19.768209"
+             y="66.629257"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.06457329px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.23151433">PSLab</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
