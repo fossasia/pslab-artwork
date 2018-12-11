@@ -15,7 +15,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg374"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="pslab-packaging.svg">
   <defs
      id="defs368">
@@ -48,16 +48,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0224012"
-     inkscape:cx="303.15779"
-     inkscape:cy="262.31036"
+     inkscape:zoom="0.5342901"
+     inkscape:cx="406.18923"
+     inkscape:cy="682.2791"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1822"
-     inkscape:window-height="1006"
-     inkscape:window-x="1498"
-     inkscape:window-y="30"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="false"
      showguides="true">
@@ -131,47 +131,52 @@
     <g
        inkscape:label="Layer 1"
        id="g139"
-       transform="matrix(0.46874999,0,0,0.46874999,134.43999,106.58854)">
+       transform="matrix(0.46874999,0,0,0.46874999,134.43999,106.58854)"
+       style="stroke-width:0.21333334;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
       <g
          id="g115"
-         transform="matrix(1.0139613,0,0,1.0666667,-0.92241043,-10.900005)">
+         transform="matrix(1.0139613,0,0,1.0666667,-0.92241043,-10.900005)"
+         style="stroke-width:0.20513212;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
         <rect
            y="133.5"
            x="66.069077"
            height="30"
            width="75.055527"
            id="rect111"
-           style="fill:#d40000;stroke-width:0.17826253" />
+           style="fill:#d40000;stroke-width:0.20513212;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
         <rect
            y="133.5"
            x="141.1246"
            height="30"
            width="22.581333"
            id="rect113"
-           style="fill:#ffffff;stroke-width:0.51167613" />
+           style="fill:#ffffff;stroke-width:0.20513212;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
       </g>
       <g
          id="g127"
-         transform="matrix(0.87328494,0,0,0.87328494,57.552875,92.912247)">
+         transform="matrix(0.87328494,0,0,0.87328494,57.552875,92.912247)"
+         style="stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
         <g
            id="g125"
-           transform="translate(-0.22432951,-1.7948814e-6)">
+           transform="translate(-0.22432951,-1.7948814e-6)"
+           style="stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
           <g
-             id="g123">
+             id="g123"
+             style="stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
             <circle
                r="4.0594411"
                cy="66.547829"
                cx="90.596443"
                id="circle117"
-               style="fill:#ffffff;stroke-width:0.49419275" />
+               style="fill:#ffffff;stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
             <text
                transform="scale(0.94768405,1.055204)"
                id="text121"
                y="66.629257"
                x="19.768209"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26057339px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23151433"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26057339px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.06457329px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.23151433"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.06457329px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.24428835;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
                  y="66.629257"
                  x="19.768209"
                  id="tspan119"
@@ -182,22 +187,22 @@
       <g
          id="g137"
          transform="matrix(0.87328493,0,0,0.87328493,99.183241,85.215262)"
-         style="fill:#d40000">
+         style="fill:#d40000;stroke-width:0.24428836;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
         <g
            id="g135"
            transform="translate(-0.22432951,-1.7948814e-6)"
-           style="fill:#d40000">
+           style="fill:#d40000;stroke-width:0.24428836;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
           <g
              id="g133"
-             style="fill:#d40000">
+             style="fill:#d40000;stroke-width:0.24428836;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
             <text
                transform="scale(0.94768405,1.055204)"
                id="text131"
                y="75.160393"
                x="52.781265"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26057339px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.23151433"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26057339px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:0.24428836;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.06457329px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d40000;stroke-width:0.23151433"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.06457329px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d40000;stroke-width:0.24428836;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
                  y="75.160393"
                  x="52.781265"
                  id="tspan129"
@@ -749,5 +754,5 @@
            height="55"
            x="190"
            y="243.70079" /></flowRegion><flowPara
-         id="flowPara2059"></flowPara></flowRoot>  </g>
+         id="flowPara2059" /></flowRoot>  </g>
 </svg>
