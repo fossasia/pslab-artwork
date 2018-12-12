@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 15.269815 15.269814"
-   height="1.5269812cm"
-   width="1.5269812cm"
+   viewBox="0 0 15.402107 15.402105"
+   height="1.5402104cm"
+   width="1.5402105cm"
    sodipodi:docname="power_source_red.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/opntec/git/pslab-artwork/Instrument_Tile_Icons/red/power_source_red.png"
-   inkscape:export-xdpi="250.81567"
-   inkscape:export-ydpi="250.81567">
+   inkscape:export-xdpi="247.36879"
+   inkscape:export-ydpi="247.36879">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,8 +31,8 @@
      id="namedview905"
      showgrid="false"
      inkscape:zoom="3.5322341"
-     inkscape:cx="-14.874629"
-     inkscape:cy="30.706639"
+     inkscape:cx="-64.418341"
+     inkscape:cy="30.706643"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -52,26 +52,26 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.97429971,0,0,0.97429672,-4.5465645,-250.03191)"
+     transform="matrix(0.97429971,0,0,0.97429672,-4.4804176,-249.96576)"
      id="layer1"
      style="stroke:#fffefe;stroke-opacity:1">
     <ellipse
        ry="7.4968724"
        rx="7.4968486"
        cy="264.46442"
-       cx="12.502797"
+       cx="12.502796"
        id="path815"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.67890757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.81468904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250" />
     <g
        id="g816"
-       transform="matrix(0.27263172,0,0,0.27263863,8.1406897,260.1021)"
+       transform="matrix(0.27263172,0,0,0.27263863,8.1406887,260.1021)"
        style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="250"
        inkscape:export-ydpi="250">
