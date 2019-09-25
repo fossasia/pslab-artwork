@@ -1705,9 +1705,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="807.2213"
-     inkscape:cy="6593.3372"
+     inkscape:zoom="0.0625"
+     inkscape:cx="333.77483"
+     inkscape:cy="2310.6714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2078,7 +2078,7 @@
        inkscape:label="Border" />
     <g
        id="g3225"
-       transform="translate(239.99999,-343.90197)">
+       transform="matrix(1.1983395,0,0,1.1983395,470.62908,-917.515)">
       <g
          transform="matrix(2.8610716,0,0,2.8610716,-1764.6987,2800.5218)"
          id="g2549"
@@ -3989,7 +3989,7 @@
              sodipodi:role="line"
              x="-251.15398"
              y="1290.6196"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.74968719px;line-height:95.99999785%;font-family:handlee;-inkscape-font-specification:'handlee Bold';fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">✔  Desktop Python Apps</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.74968719px;line-height:95.99999785%;font-family:handlee;-inkscape-font-specification:'handlee Bold';fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">✔  Desktop Python App</tspan><tspan
              id="tspan1511-2-3"
              sodipodi:role="line"
              x="-251.15398"
